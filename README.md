@@ -1,7 +1,7 @@
 2048-android
 ============
 
-[![Build Status](https://travis-ci.org/uberspot/2048-android.svg?branch=master)](https://travis-ci.org/uberspot/2048-android)
+This project is based on https://github.com/uberspot/2048, whose README is mostly the one below. The purpose of the changes from that base project is just to simplify it so we just have directly the game without any initial changelog page.
 
 This is the Android port of the 2048 game made by Gabriele Cirulli https://github.com/gabrielecirulli/2048
 It's nothing fancy; just a WebView that loads the locally stored html files of the original game.
